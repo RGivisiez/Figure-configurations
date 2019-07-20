@@ -1,6 +1,6 @@
 # Matplotlib Parameters
 
-### Matplotlib parameters for:
+#### Matplotlib parameters for:
 
 - Thesis
 - Posters
