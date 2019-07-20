@@ -1,3 +1,7 @@
 # Matplotlib Parameters
 
-Matplotlib parameters for presentations and papers.
+### Matplotlib parameters for:
+
+- Thesis
+- Posters
+- Slides
